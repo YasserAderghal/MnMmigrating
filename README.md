@@ -8,7 +8,7 @@ Note: there's two version of this programs , one with user interface(web app) wh
 MnMmigrating make use of this libraries.
 
 ```
-django==3.1.2
+django==3.2.5
 sql-metadata==2.3.0
 gunicorn==20.1.0
 django-cors-headers==3.11.0
