@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "name": "yasser",
+        "abcd": [
+            {
+                "id": 1,
+                "name_id": 1,
+                "lastname": "fgegerg"
+            },
+            {
+                "id": 2,
+                "name_id": 1,
+                "lastname": "fzefgegerg"
+            }
+        ],
+        "descr": [
+            {
+                "id": 2,
+                "user_id": 1,
+                "description": "sddszgzrgffsdv"
+            },
+            {
+                "id": 3,
+                "user_id": 1,
+                "description": "sddsjyj"
+            },
+            {
+                "id": 4,
+                "user_id": 1,
+                "description": "sddsjyjgergerg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "yassdfdsser",
+        "abcd": [
+            {
+                "id": 3,
+                "name_id": 2,
+                "lastname": "jklkjl"
+            },
+            {
+                "id": 4,
+                "name_id": 2,
+                "lastname": "zgzrgf"
+            }
+        ],
+        "descr": [
+            {
+                "id": 1,
+                "user_id": 2,
+                "description": "zgzrgffsdv"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "zefzefr",
+        "abcd": [],
+        "descr": []
+    },
+    {
+        "id": 4,
+        "name": "aaaazefr",
+        "abcd": [],
+        "descr": []
+    }
+]
