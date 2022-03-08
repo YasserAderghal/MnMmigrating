@@ -3,8 +3,11 @@ from .forms import UploadFileForm
 from django.core.files.storage import FileSystemStorage
 from django.conf import settings
 
-from django.http import HttpResponse, Http404
+from django.contrib import messages
+from django.http import HttpResponse, Http404, HttpResponseRedirect
 from converter import converter
+from django.urls import reverse
+
 import os
 # Create your views here.
 
@@ -37,11 +40,17 @@ def tables(request):
 
 def show(request):
 
+    file = False
     if request.method == 'POST':
         checked_items = request.POST.getlist("item_checkbox")
         file = converter.run(checked_items)
 
     if file:
+        print("ttt")
+        messages.success(request, file)
+
+        #return HttpResponseRedirect("show")
+
         return render(request, 'home/show.html', { 'succ': True,'file_download': file})
 
 

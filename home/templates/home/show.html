@@ -7,7 +7,6 @@
 <main class="container">
     <div class="row">
 
-        {% if succ %}
 
         <header class="d-flex flex-column flex-md-row align-items-md-center p-5 bg-light">
             <div class="pt-md-3 pb-md-4">
@@ -20,10 +19,13 @@ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis mol
             <script async="" src="https://cdn.carbonads.com/carbon.js?serve=CKYIKKJL&amp;placement=getbootstrapcom" id="_carbonads_js"></script>
 
         </header>
-        {% endif %}
 
     </div>
 </main>
-
+<script>
+    if ( window.history.replaceState ) {
+        window.history.replaceState( null, null, window.location.href );
+    }
+</script>
 {% endblock content %}
 
