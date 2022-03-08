@@ -15,7 +15,7 @@ services:
     command: sh -c "echo yes | python manage.py collectstatic &&
                     gunicorn MnMmigrating.wsgi:application --bind 0.0.0.0:8000"
     volumes:
-      - .:/app # map data and files from parent directory in host to microservice directory in docker containe
+      #- .:/app # map data and files from parent directory in host to microservice directory in docker containe
       - ./static:/app/static
     image: mnmigrating2
 
