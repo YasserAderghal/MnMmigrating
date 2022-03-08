@@ -15,6 +15,7 @@ django-cors-headers==3.11.0
 ```
 
 ## Install
+This application is developed and tested on "linux".
 ### Run directly
 
 You can run this project directly by:
