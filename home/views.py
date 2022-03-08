@@ -26,7 +26,6 @@ def tables(request):
         if request.FILES["myfile"] :
             myfile = request.FILES['myfile']
             if str(myfile).split("/")[-1][-4:] == ".sql": 
-                print("tata")
                 fs = FileSystemStorage()
                 filename = fs.save(myfile.name, myfile)
                 uploaded_file_url = fs.url(filename)
@@ -46,7 +45,6 @@ def show(request):
         file = converter.run(checked_items)
 
     if file:
-        print("ttt")
         messages.success(request, file)
 
         #return HttpResponseRedirect("show")
@@ -59,7 +57,6 @@ def show(request):
 
 def download(request, path):
     file_path = os.path.join(settings.MEDIA_ROOT, path)
-    print(file_path)
     if os.path.exists(file_path):
         with open(file_path, 'rb') as fh:
             response = HttpResponse(fh.read(), content_type="application/zip")

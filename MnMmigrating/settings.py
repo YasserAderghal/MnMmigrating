@@ -10,6 +10,7 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.0/ref/settings/
 """
 
+from corsheaders.defaults import default_headers
 from pathlib import Path
 import os
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -23,12 +24,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-mml&shze9pw+_*5k!44ke!(t=8a)z7jl07to)+_$b)oc^!4ti*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False 
+DEBUG = True 
 
 ALLOWED_HOSTS = ['*']
 
 
-CSRF_TRUSTED_ORIGINS = ["https://mongofy", "https://mongofy"]
+CSRF_TRUSTED_ORIGINS = ["https://mongofy", "http://mongofy","http://localhost","http://localhost:1300"]
 # Application definition
 
 INSTALLED_APPS = [
