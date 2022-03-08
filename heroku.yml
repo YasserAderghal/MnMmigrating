@@ -1,0 +1,11 @@
+build:
+  docker:
+    web: Dockerfile
+    server: nginx/Dockerfile
+  config:
+    RAILS_ENV: development
+release:
+  image: web
+  command:
+    - gunicorn MnMmigrating.wsgi
+
