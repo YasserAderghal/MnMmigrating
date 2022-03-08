@@ -1,0 +1,24 @@
+version: '3.7'
+
+services:
+  nginx:
+    build: ./nginx
+    ports:
+      - 1300:80
+    volumes:
+      - ./static:/app/static
+    depends_on:
+      - web
+    restart: "on-failure"
+  web:
+    build: . #build the image for the web service from the dockerfile in parent directory
+    command: sh -c "echo yes | python manage.py collectstatic &&
+                    gunicorn MnMmigrating.wsgi:application --bind 0.0.0.0:8000"
+    volumes:
+      - .:/app # map data and files from parent directory in host to microservice directory in docker containe
+      - ./static:/app/static
+    image: mnmigrating2
+
+    expose:
+      - 8000
+    restart: "on-failure"

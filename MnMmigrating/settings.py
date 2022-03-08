@@ -23,11 +23,12 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-mml&shze9pw+_*5k!44ke!(t=8a)z7jl07to)+_$b)oc^!4ti*'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True 
+DEBUG = False 
 
 ALLOWED_HOSTS = ['*']
 
 
+CSRF_TRUSTED_ORIGINS = ["https://mongofy", "https://mongofy"]
 # Application definition
 
 INSTALLED_APPS = [
