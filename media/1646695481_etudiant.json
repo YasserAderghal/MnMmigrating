@@ -1,0 +1,1113 @@
+[
+    {
+        "code": 0,
+        "numero": 22,
+        "nom": "Etudiant 0",
+        "filiere": [
+            {
+                "numero": 22,
+                "libelle": "Module 22"
+            }
+        ]
+    },
+    {
+        "code": 1,
+        "numero": 21,
+        "nom": "Etudiant 1",
+        "filiere": [
+            {
+                "numero": 21,
+                "libelle": "Module 21"
+            }
+        ]
+    },
+    {
+        "code": 2,
+        "numero": 27,
+        "nom": "Etudiant 2",
+        "filiere": [
+            {
+                "numero": 27,
+                "libelle": "Module 27"
+            }
+        ]
+    },
+    {
+        "code": 3,
+        "numero": 14,
+        "nom": "Etudiant 3",
+        "filiere": [
+            {
+                "numero": 14,
+                "libelle": "Module 14"
+            }
+        ]
+    },
+    {
+        "code": 4,
+        "numero": 37,
+        "nom": "Etudiant 4",
+        "filiere": [
+            {
+                "numero": 37,
+                "libelle": "Module 37"
+            }
+        ]
+    },
+    {
+        "code": 5,
+        "numero": 19,
+        "nom": "Etudiant 5",
+        "filiere": [
+            {
+                "numero": 19,
+                "libelle": "Module 19"
+            }
+        ]
+    },
+    {
+        "code": 6,
+        "numero": 22,
+        "nom": "Etudiant 6",
+        "filiere": [
+            {
+                "numero": 22,
+                "libelle": "Module 22"
+            }
+        ]
+    },
+    {
+        "code": 7,
+        "numero": 26,
+        "nom": "Etudiant 7",
+        "filiere": [
+            {
+                "numero": 26,
+                "libelle": "Module 26"
+            }
+        ]
+    },
+    {
+        "code": 8,
+        "numero": 28,
+        "nom": "Etudiant 8",
+        "filiere": [
+            {
+                "numero": 28,
+                "libelle": "Module 28"
+            }
+        ]
+    },
+    {
+        "code": 9,
+        "numero": 12,
+        "nom": "Etudiant 9",
+        "filiere": [
+            {
+                "numero": 12,
+                "libelle": "Module 12"
+            }
+        ]
+    },
+    {
+        "code": 10,
+        "numero": 42,
+        "nom": "Etudiant 10",
+        "filiere": [
+            {
+                "numero": 42,
+                "libelle": "Module 42"
+            }
+        ]
+    },
+    {
+        "code": 11,
+        "numero": 31,
+        "nom": "Etudiant 11",
+        "filiere": [
+            {
+                "numero": 31,
+                "libelle": "Module 31"
+            }
+        ]
+    },
+    {
+        "code": 12,
+        "numero": 28,
+        "nom": "Etudiant 12",
+        "filiere": [
+            {
+                "numero": 28,
+                "libelle": "Module 28"
+            }
+        ]
+    },
+    {
+        "code": 13,
+        "numero": 20,
+        "nom": "Etudiant 13",
+        "filiere": [
+            {
+                "numero": 20,
+                "libelle": "Module 20"
+            }
+        ]
+    },
+    {
+        "code": 14,
+        "numero": 46,
+        "nom": "Etudiant 14",
+        "filiere": [
+            {
+                "numero": 46,
+                "libelle": "Module 46"
+            }
+        ]
+    },
+    {
+        "code": 15,
+        "numero": 10,
+        "nom": "Etudiant 15",
+        "filiere": [
+            {
+                "numero": 10,
+                "libelle": "Module 10"
+            }
+        ]
+    },
+    {
+        "code": 16,
+        "numero": 6,
+        "nom": "Etudiant 16",
+        "filiere": [
+            {
+                "numero": 6,
+                "libelle": "Module 6"
+            }
+        ]
+    },
+    {
+        "code": 17,
+        "numero": 14,
+        "nom": "Etudiant 17",
+        "filiere": [
+            {
+                "numero": 14,
+                "libelle": "Module 14"
+            }
+        ]
+    },
+    {
+        "code": 18,
+        "numero": 8,
+        "nom": "Etudiant 18",
+        "filiere": [
+            {
+                "numero": 8,
+                "libelle": "Module 8"
+            }
+        ]
+    },
+    {
+        "code": 19,
+        "numero": 20,
+        "nom": "Etudiant 19",
+        "filiere": [
+            {
+                "numero": 20,
+                "libelle": "Module 20"
+            }
+        ]
+    },
+    {
+        "code": 20,
+        "numero": 19,
+        "nom": "Etudiant 20",
+        "filiere": [
+            {
+                "numero": 19,
+                "libelle": "Module 19"
+            }
+        ]
+    },
+    {
+        "code": 21,
+        "numero": 14,
+        "nom": "Etudiant 21",
+        "filiere": [
+            {
+                "numero": 14,
+                "libelle": "Module 14"
+            }
+        ]
+    },
+    {
+        "code": 22,
+        "numero": 27,
+        "nom": "Etudiant 22",
+        "filiere": [
+            {
+                "numero": 27,
+                "libelle": "Module 27"
+            }
+        ]
+    },
+    {
+        "code": 23,
+        "numero": 5,
+        "nom": "Etudiant 23",
+        "filiere": [
+            {
+                "numero": 5,
+                "libelle": "Module 5"
+            }
+        ]
+    },
+    {
+        "code": 24,
+        "numero": 23,
+        "nom": "Etudiant 24",
+        "filiere": [
+            {
+                "numero": 23,
+                "libelle": "Module 23"
+            }
+        ]
+    },
+    {
+        "code": 25,
+        "numero": 24,
+        "nom": "Etudiant 25",
+        "filiere": [
+            {
+                "numero": 24,
+                "libelle": "Module 24"
+            }
+        ]
+    },
+    {
+        "code": 26,
+        "numero": 25,
+        "nom": "Etudiant 26",
+        "filiere": [
+            {
+                "numero": 25,
+                "libelle": "Module 25"
+            }
+        ]
+    },
+    {
+        "code": 27,
+        "numero": 3,
+        "nom": "Etudiant 27",
+        "filiere": [
+            {
+                "numero": 3,
+                "libelle": "Module 3"
+            }
+        ]
+    },
+    {
+        "code": 28,
+        "numero": 10,
+        "nom": "Etudiant 28",
+        "filiere": [
+            {
+                "numero": 10,
+                "libelle": "Module 10"
+            }
+        ]
+    },
+    {
+        "code": 29,
+        "numero": 0,
+        "nom": "Etudiant 29",
+        "filiere": [
+            {
+                "numero": 0,
+                "libelle": "Module 0"
+            }
+        ]
+    },
+    {
+        "code": 30,
+        "numero": 48,
+        "nom": "Etudiant 30",
+        "filiere": [
+            {
+                "numero": 48,
+                "libelle": "Module 48"
+            }
+        ]
+    },
+    {
+        "code": 31,
+        "numero": 15,
+        "nom": "Etudiant 31",
+        "filiere": [
+            {
+                "numero": 15,
+                "libelle": "Module 15"
+            }
+        ]
+    },
+    {
+        "code": 32,
+        "numero": 11,
+        "nom": "Etudiant 32",
+        "filiere": [
+            {
+                "numero": 11,
+                "libelle": "Module 11"
+            }
+        ]
+    },
+    {
+        "code": 33,
+        "numero": 38,
+        "nom": "Etudiant 33",
+        "filiere": [
+            {
+                "numero": 38,
+                "libelle": "Module 38"
+            }
+        ]
+    },
+    {
+        "code": 34,
+        "numero": 35,
+        "nom": "Etudiant 34",
+        "filiere": [
+            {
+                "numero": 35,
+                "libelle": "Module 35"
+            }
+        ]
+    },
+    {
+        "code": 35,
+        "numero": 8,
+        "nom": "Etudiant 35",
+        "filiere": [
+            {
+                "numero": 8,
+                "libelle": "Module 8"
+            }
+        ]
+    },
+    {
+        "code": 36,
+        "numero": 50,
+        "nom": "Etudiant 36",
+        "filiere": [
+            {
+                "numero": 50,
+                "libelle": "Module 50"
+            }
+        ]
+    },
+    {
+        "code": 37,
+        "numero": 14,
+        "nom": "Etudiant 37",
+        "filiere": [
+            {
+                "numero": 14,
+                "libelle": "Module 14"
+            }
+        ]
+    },
+    {
+        "code": 38,
+        "numero": 41,
+        "nom": "Etudiant 38",
+        "filiere": [
+            {
+                "numero": 41,
+                "libelle": "Module 41"
+            }
+        ]
+    },
+    {
+        "code": 39,
+        "numero": 6,
+        "nom": "Etudiant 39",
+        "filiere": [
+            {
+                "numero": 6,
+                "libelle": "Module 6"
+            }
+        ]
+    },
+    {
+        "code": 40,
+        "numero": 33,
+        "nom": "Etudiant 40",
+        "filiere": [
+            {
+                "numero": 33,
+                "libelle": "Module 33"
+            }
+        ]
+    },
+    {
+        "code": 41,
+        "numero": 28,
+        "nom": "Etudiant 41",
+        "filiere": [
+            {
+                "numero": 28,
+                "libelle": "Module 28"
+            }
+        ]
+    },
+    {
+        "code": 42,
+        "numero": 47,
+        "nom": "Etudiant 42",
+        "filiere": [
+            {
+                "numero": 47,
+                "libelle": "Module 47"
+            }
+        ]
+    },
+    {
+        "code": 43,
+        "numero": 16,
+        "nom": "Etudiant 43",
+        "filiere": [
+            {
+                "numero": 16,
+                "libelle": "Module 16"
+            }
+        ]
+    },
+    {
+        "code": 44,
+        "numero": 12,
+        "nom": "Etudiant 44",
+        "filiere": [
+            {
+                "numero": 12,
+                "libelle": "Module 12"
+            }
+        ]
+    },
+    {
+        "code": 45,
+        "numero": 26,
+        "nom": "Etudiant 45",
+        "filiere": [
+            {
+                "numero": 26,
+                "libelle": "Module 26"
+            }
+        ]
+    },
+    {
+        "code": 46,
+        "numero": 39,
+        "nom": "Etudiant 46",
+        "filiere": [
+            {
+                "numero": 39,
+                "libelle": "Module 39"
+            }
+        ]
+    },
+    {
+        "code": 47,
+        "numero": 47,
+        "nom": "Etudiant 47",
+        "filiere": [
+            {
+                "numero": 47,
+                "libelle": "Module 47"
+            }
+        ]
+    },
+    {
+        "code": 48,
+        "numero": 26,
+        "nom": "Etudiant 48",
+        "filiere": [
+            {
+                "numero": 26,
+                "libelle": "Module 26"
+            }
+        ]
+    },
+    {
+        "code": 49,
+        "numero": 12,
+        "nom": "Etudiant 49",
+        "filiere": [
+            {
+                "numero": 12,
+                "libelle": "Module 12"
+            }
+        ]
+    },
+    {
+        "code": 50,
+        "numero": 16,
+        "nom": "Etudiant 50",
+        "filiere": [
+            {
+                "numero": 16,
+                "libelle": "Module 16"
+            }
+        ]
+    },
+    {
+        "code": 51,
+        "numero": 12,
+        "nom": "Etudiant 51",
+        "filiere": [
+            {
+                "numero": 12,
+                "libelle": "Module 12"
+            }
+        ]
+    },
+    {
+        "code": 52,
+        "numero": 24,
+        "nom": "Etudiant 52",
+        "filiere": [
+            {
+                "numero": 24,
+                "libelle": "Module 24"
+            }
+        ]
+    },
+    {
+        "code": 53,
+        "numero": 26,
+        "nom": "Etudiant 53",
+        "filiere": [
+            {
+                "numero": 26,
+                "libelle": "Module 26"
+            }
+        ]
+    },
+    {
+        "code": 54,
+        "numero": 1,
+        "nom": "Etudiant 54",
+        "filiere": [
+            {
+                "numero": 1,
+                "libelle": "Module 1"
+            }
+        ]
+    },
+    {
+        "code": 55,
+        "numero": 5,
+        "nom": "Etudiant 55",
+        "filiere": [
+            {
+                "numero": 5,
+                "libelle": "Module 5"
+            }
+        ]
+    },
+    {
+        "code": 56,
+        "numero": 16,
+        "nom": "Etudiant 56",
+        "filiere": [
+            {
+                "numero": 16,
+                "libelle": "Module 16"
+            }
+        ]
+    },
+    {
+        "code": 57,
+        "numero": 12,
+        "nom": "Etudiant 57",
+        "filiere": [
+            {
+                "numero": 12,
+                "libelle": "Module 12"
+            }
+        ]
+    },
+    {
+        "code": 58,
+        "numero": 39,
+        "nom": "Etudiant 58",
+        "filiere": [
+            {
+                "numero": 39,
+                "libelle": "Module 39"
+            }
+        ]
+    },
+    {
+        "code": 59,
+        "numero": 45,
+        "nom": "Etudiant 59",
+        "filiere": [
+            {
+                "numero": 45,
+                "libelle": "Module 45"
+            }
+        ]
+    },
+    {
+        "code": 60,
+        "numero": 11,
+        "nom": "Etudiant 60",
+        "filiere": [
+            {
+                "numero": 11,
+                "libelle": "Module 11"
+            }
+        ]
+    },
+    {
+        "code": 61,
+        "numero": 0,
+        "nom": "Etudiant 61",
+        "filiere": [
+            {
+                "numero": 0,
+                "libelle": "Module 0"
+            }
+        ]
+    },
+    {
+        "code": 62,
+        "numero": 28,
+        "nom": "Etudiant 62",
+        "filiere": [
+            {
+                "numero": 28,
+                "libelle": "Module 28"
+            }
+        ]
+    },
+    {
+        "code": 63,
+        "numero": 42,
+        "nom": "Etudiant 63",
+        "filiere": [
+            {
+                "numero": 42,
+                "libelle": "Module 42"
+            }
+        ]
+    },
+    {
+        "code": 64,
+        "numero": 35,
+        "nom": "Etudiant 64",
+        "filiere": [
+            {
+                "numero": 35,
+                "libelle": "Module 35"
+            }
+        ]
+    },
+    {
+        "code": 65,
+        "numero": 9,
+        "nom": "Etudiant 65",
+        "filiere": [
+            {
+                "numero": 9,
+                "libelle": "Module 9"
+            }
+        ]
+    },
+    {
+        "code": 66,
+        "numero": 23,
+        "nom": "Etudiant 66",
+        "filiere": [
+            {
+                "numero": 23,
+                "libelle": "Module 23"
+            }
+        ]
+    },
+    {
+        "code": 67,
+        "numero": 30,
+        "nom": "Etudiant 67",
+        "filiere": [
+            {
+                "numero": 30,
+                "libelle": "Module 30"
+            }
+        ]
+    },
+    {
+        "code": 68,
+        "numero": 12,
+        "nom": "Etudiant 68",
+        "filiere": [
+            {
+                "numero": 12,
+                "libelle": "Module 12"
+            }
+        ]
+    },
+    {
+        "code": 69,
+        "numero": 26,
+        "nom": "Etudiant 69",
+        "filiere": [
+            {
+                "numero": 26,
+                "libelle": "Module 26"
+            }
+        ]
+    },
+    {
+        "code": 70,
+        "numero": 49,
+        "nom": "Etudiant 70",
+        "filiere": [
+            {
+                "numero": 49,
+                "libelle": "Module 49"
+            }
+        ]
+    },
+    {
+        "code": 71,
+        "numero": 19,
+        "nom": "Etudiant 71",
+        "filiere": [
+            {
+                "numero": 19,
+                "libelle": "Module 19"
+            }
+        ]
+    },
+    {
+        "code": 72,
+        "numero": 7,
+        "nom": "Etudiant 72",
+        "filiere": [
+            {
+                "numero": 7,
+                "libelle": "Module 7"
+            }
+        ]
+    },
+    {
+        "code": 73,
+        "numero": 3,
+        "nom": "Etudiant 73",
+        "filiere": [
+            {
+                "numero": 3,
+                "libelle": "Module 3"
+            }
+        ]
+    },
+    {
+        "code": 74,
+        "numero": 3,
+        "nom": "Etudiant 74",
+        "filiere": [
+            {
+                "numero": 3,
+                "libelle": "Module 3"
+            }
+        ]
+    },
+    {
+        "code": 75,
+        "numero": 44,
+        "nom": "Etudiant 75",
+        "filiere": [
+            {
+                "numero": 44,
+                "libelle": "Module 44"
+            }
+        ]
+    },
+    {
+        "code": 76,
+        "numero": 22,
+        "nom": "Etudiant 76",
+        "filiere": [
+            {
+                "numero": 22,
+                "libelle": "Module 22"
+            }
+        ]
+    },
+    {
+        "code": 77,
+        "numero": 7,
+        "nom": "Etudiant 77",
+        "filiere": [
+            {
+                "numero": 7,
+                "libelle": "Module 7"
+            }
+        ]
+    },
+    {
+        "code": 78,
+        "numero": 0,
+        "nom": "Etudiant 78",
+        "filiere": [
+            {
+                "numero": 0,
+                "libelle": "Module 0"
+            }
+        ]
+    },
+    {
+        "code": 79,
+        "numero": 39,
+        "nom": "Etudiant 79",
+        "filiere": [
+            {
+                "numero": 39,
+                "libelle": "Module 39"
+            }
+        ]
+    },
+    {
+        "code": 80,
+        "numero": 46,
+        "nom": "Etudiant 80",
+        "filiere": [
+            {
+                "numero": 46,
+                "libelle": "Module 46"
+            }
+        ]
+    },
+    {
+        "code": 81,
+        "numero": 30,
+        "nom": "Etudiant 81",
+        "filiere": [
+            {
+                "numero": 30,
+                "libelle": "Module 30"
+            }
+        ]
+    },
+    {
+        "code": 82,
+        "numero": 3,
+        "nom": "Etudiant 82",
+        "filiere": [
+            {
+                "numero": 3,
+                "libelle": "Module 3"
+            }
+        ]
+    },
+    {
+        "code": 83,
+        "numero": 36,
+        "nom": "Etudiant 83",
+        "filiere": [
+            {
+                "numero": 36,
+                "libelle": "Module 36"
+            }
+        ]
+    },
+    {
+        "code": 84,
+        "numero": 24,
+        "nom": "Etudiant 84",
+        "filiere": [
+            {
+                "numero": 24,
+                "libelle": "Module 24"
+            }
+        ]
+    },
+    {
+        "code": 85,
+        "numero": 10,
+        "nom": "Etudiant 85",
+        "filiere": [
+            {
+                "numero": 10,
+                "libelle": "Module 10"
+            }
+        ]
+    },
+    {
+        "code": 86,
+        "numero": 44,
+        "nom": "Etudiant 86",
+        "filiere": [
+            {
+                "numero": 44,
+                "libelle": "Module 44"
+            }
+        ]
+    },
+    {
+        "code": 87,
+        "numero": 10,
+        "nom": "Etudiant 87",
+        "filiere": [
+            {
+                "numero": 10,
+                "libelle": "Module 10"
+            }
+        ]
+    },
+    {
+        "code": 88,
+        "numero": 34,
+        "nom": "Etudiant 88",
+        "filiere": [
+            {
+                "numero": 34,
+                "libelle": "Module 34"
+            }
+        ]
+    },
+    {
+        "code": 89,
+        "numero": 14,
+        "nom": "Etudiant 89",
+        "filiere": [
+            {
+                "numero": 14,
+                "libelle": "Module 14"
+            }
+        ]
+    },
+    {
+        "code": 90,
+        "numero": 3,
+        "nom": "Etudiant 90",
+        "filiere": [
+            {
+                "numero": 3,
+                "libelle": "Module 3"
+            }
+        ]
+    },
+    {
+        "code": 91,
+        "numero": 26,
+        "nom": "Etudiant 91",
+        "filiere": [
+            {
+                "numero": 26,
+                "libelle": "Module 26"
+            }
+        ]
+    },
+    {
+        "code": 92,
+        "numero": 16,
+        "nom": "Etudiant 92",
+        "filiere": [
+            {
+                "numero": 16,
+                "libelle": "Module 16"
+            }
+        ]
+    },
+    {
+        "code": 93,
+        "numero": 11,
+        "nom": "Etudiant 93",
+        "filiere": [
+            {
+                "numero": 11,
+                "libelle": "Module 11"
+            }
+        ]
+    },
+    {
+        "code": 94,
+        "numero": 9,
+        "nom": "Etudiant 94",
+        "filiere": [
+            {
+                "numero": 9,
+                "libelle": "Module 9"
+            }
+        ]
+    },
+    {
+        "code": 95,
+        "numero": 4,
+        "nom": "Etudiant 95",
+        "filiere": [
+            {
+                "numero": 4,
+                "libelle": "Module 4"
+            }
+        ]
+    },
+    {
+        "code": 96,
+        "numero": 27,
+        "nom": "Etudiant 96",
+        "filiere": [
+            {
+                "numero": 27,
+                "libelle": "Module 27"
+            }
+        ]
+    },
+    {
+        "code": 97,
+        "numero": 32,
+        "nom": "Etudiant 97",
+        "filiere": [
+            {
+                "numero": 32,
+                "libelle": "Module 32"
+            }
+        ]
+    },
+    {
+        "code": 98,
+        "numero": 14,
+        "nom": "Etudiant 98",
+        "filiere": [
+            {
+                "numero": 14,
+                "libelle": "Module 14"
+            }
+        ]
+    },
+    {
+        "code": 99,
+        "numero": 44,
+        "nom": "Etudiant 99",
+        "filiere": [
+            {
+                "numero": 44,
+                "libelle": "Module 44"
+            }
+        ]
+    },
+    {
+        "code": 100,
+        "numero": 2,
+        "nom": "Module 100",
+        "filiere": [
+            {
+                "numero": 2,
+                "libelle": "Module 2"
+            }
+        ]
+    }
+]

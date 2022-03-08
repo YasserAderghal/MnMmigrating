@@ -1,0 +1,29 @@
+
+
+{% extends 'main.html' %}
+
+{% block content %}
+
+<main class="container">
+    <div class="row">
+
+        {% if succ %}
+
+        <header class="d-flex flex-column flex-md-row align-items-md-center p-5 bg-light">
+            <div class="pt-md-3 pb-md-4">
+                <h1 class="bd-title mt-0">Download Json files</h1>
+                <p class="bd-lead">
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam voluptatem veniam, est atque cumque eum delectus sint!
+                </p>
+                <a href="{% url 'download' path=file_download %}" class="btn btn-lg btn-primary" onclick="ga('send', 'event', 'Examples', 'Hero', 'Download');">Download</a>
+            </div>
+            <script async="" src="https://cdn.carbonads.com/carbon.js?serve=CKYIKKJL&amp;placement=getbootstrapcom" id="_carbonads_js"></script>
+
+        </header>
+        {% endif %}
+
+    </div>
+</main>
+
+{% endblock content %}
+

@@ -1,0 +1,45 @@
+
+{% extends 'main.html' %}
+
+{% block content %}
+
+<main class="container">
+    <div class="row">
+
+    <h1 class="">Show tables</h1>
+    <form method="POST" id="form_tables" action="{% url 'show' %}" enctype="multipart/form-data">
+      {% csrf_token %}
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Table name</th>
+                <th scope="col">Foreign key</th>
+                <th scope="col">Referenced table name</th>
+                <th scope="col">Referenced key</th>
+                <th scope="col">Select</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for tab  in tables %}
+            <tr>
+                <td>{{ tab.0 }}</td>
+                <td>{{ tab.1 }}</td>
+                <td>{{ tab.2 }}</td>
+                <td>{{ tab.3 }}</td>
+                <td>  <input class="form-check-input" id="checkbox" name="item_checkbox" type="checkbox" value="{{ tab.0 }}"></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+        <div class="col-md-12 bg-light text-right pull-right">
+      <input type="submit" value="Submit" id="submit" class="btn btn-primary" name="submit_tables_to_convert">
+      </div>
+
+    </form>
+
+    </div>
+    <div class="mt-6">
+    </div>
+</main>
+
+{% endblock content %}
