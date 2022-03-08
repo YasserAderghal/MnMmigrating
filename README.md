@@ -27,7 +27,7 @@ $ virtualenv mnmmigrating
 ```
 port used 8000
 
-### run using docker
+### run using docker (preferable)
 ```
 $ git clone git@github.com:YasserAderghal/MnMmigrating.git && cd MnMmigrating
 $ docker-compose build
@@ -45,3 +45,11 @@ And change debug from false to true.
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True 
 ```
+
+
+Three steps to get your results:
+* First page: upload sql file (it must be dumped from phpMyadmin).
+* Second page: it will show you tables in database.
+    - if you didn't select any table , your json files would be just collection without any reference to other collection , otherwise , the selected table should result a json file with reference to other tables if it exists.
+* Third page : download a zip file contains json files.
+
