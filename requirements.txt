@@ -1,4 +1,4 @@
-django
-sql-metadata
-gunicorn
-django-cors-headers
+django==3.1.2
+sql-metadata==2.3.0
+gunicorn==20.1.0
+django-cors-headers==3.11.0
